@@ -5,7 +5,7 @@ This program will ask the user for an amount to invest, and calculate the intere
 */
 import java.util.Scanner;
 
-public class Midterm
+public class Invest
 {
 public static void main( String[] args )
 {
